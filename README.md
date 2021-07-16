@@ -1,5 +1,5 @@
 # REBRANDLY-PowerShell
-Some example on how to use Rebrandly API with PowerShell
+Some examples of how to use Rebrandly API with PowerShell
 
 
 
